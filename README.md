@@ -1,5 +1,5 @@
 # project-ruby
 #
-#The Oding Project: Project Ruby
+#The Odin Project: Project Ruby
 #
 #coded by Brenden Belluardo
